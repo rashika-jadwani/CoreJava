@@ -29,4 +29,8 @@ public class BajajPulsar extends Bike {
     public String getColor(){
         return this.color;
     }
+
+    public int topSpeed(){
+        return 160;
+    }
 }
