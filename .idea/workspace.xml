@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="875ff696-aa1e-42ad-a317-677269bcb631" name="Default Changelist" comment="" />
+    <list default="true" id="875ff696-aa1e-42ad-a317-677269bcb631" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/OOPPackage/ManufacturingUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPPackage/ManufacturingUnit.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lsHmtHf9eqXUaAQ7tYsl7GeZjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

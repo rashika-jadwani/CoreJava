@@ -36,7 +36,8 @@ public class ManufacturingUnit {
 
             System.out.println(bajajPulsar.getColor()+" bike has capacity of carrying "+bajajPulsar.noOfPassengers()+ " people " + " and top speed of " +bajajPulsar.topSpeed() + " kmph");
             System.out.println("Another message for test");
-            System.out.println("Message 2");
+            System.out.println("Message 234");
+            System.out.println("Message 567");
         }
     }
 }
