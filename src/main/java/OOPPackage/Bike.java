@@ -16,4 +16,7 @@ public abstract class Bike extends RoadVehicle {
         System.out.println("has steering handle");
     }
 
+    public abstract int topSpeed();
 }
+
+
