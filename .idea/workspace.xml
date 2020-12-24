@@ -5,12 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="875ff696-aa1e-42ad-a317-677269bcb631" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CoreJavaPractice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOPPackage/BajajPulsar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPPackage/BajajPulsar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/OOPPackage/Bike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPPackage/Bike.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/OOPPackage/ManufacturingUnit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/OOPPackage/ManufacturingUnit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +25,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1lsHmtHf9eqXUaAQ7tYsl7GeZjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -145,5 +140,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
